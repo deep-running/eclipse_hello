@@ -6,6 +6,8 @@ public class PushPrint {
 		System.out.println("Add Java Class File Push");
 		System.out.println("hi world!");
 		System.out.println("hello world");
+		System.out.println("Hatsune world");
+
 
 	}
 
